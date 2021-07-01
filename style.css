@@ -1,0 +1,30 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+html {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+}
+#br{
+    height: 800px;
+    
+}
+h4{
+    font-size: 80px;
+}
+h5{
+    font-size: 45px;
+}
+#yt{
+    height: 250px;
+    width: 300px
+}
+h6{
+    font-size: 45px;
+}
